@@ -605,7 +605,7 @@ img{
     justify-content: center;
     fill: transparent;
 }
-.modal-input-hidden:checked + .user-privacy .checkbox-svg{
+.modal-input-hidden:checked + .modal-checkbox-input .modal-checkbox-span{
     background-color:#404bbf;
     border: none;
     fill:#F4F4FD;
