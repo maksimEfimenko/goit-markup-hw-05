@@ -555,6 +555,7 @@ img{
 }
 .svg-person{
     position: absolute;
+    fill: #4D5AE5;
     left: 16px;
     top: 50%;
     transform: translateY(-50%);
