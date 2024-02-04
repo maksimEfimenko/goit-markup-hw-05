@@ -605,3 +605,8 @@ img{
     justify-content: center;
     fill: transparent;
 }
+.modal-input-hidden:checked + .user-privacy .modal-checkbox-span{
+    background-color:#404bbf;
+    border: none;
+    fill:#F4F4FD;
+}
