@@ -415,6 +415,12 @@ img{
 }
 .footer-div-one{
     display: flex;
-    align-items: 100px 0;
     align-items: baseline;
+}
+/*SUBSCRIBE*/
+.footer-subscribe-p{
+    margin-bottom: 16px; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
 }
