@@ -594,7 +594,7 @@ img{
     letter-spacing: 0.04em;
     color:#8e8f99;
 }
-.modal-span{
+.modal-checkbox-span{
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
